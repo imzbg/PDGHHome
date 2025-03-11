@@ -1,0 +1,32 @@
+CommandSucessful:
+  DeleteHome: "&e&o>&6 Home @home deletada com sucesso."
+CommandUse:
+  Loja: "&e&o>&6 Utilize: &f/loja <home>&6 para deixar uma home publica."
+  RemoveLoja: "&e&o>&6 Utilize: &f/removeloja <home>&6 para deixar uma home privada."
+  SetHome: "&e&o>&6 Utilize: &f/sethome <nome da home>&6 para marcar uma home."
+  DeleteHome: "&e&o>&6 Utilize: &f/deletehome <nome da home>&6 para deletar uma home."
+  Home: "&e&o>&6 Uso correto do comando &f/home&6:"
+Player:
+  NaoTem: "&4&o>&c Voce nao tem uma home chamada @home."
+  HomeTeleport: "&e&o>&6 Bem vindo a sua home @home."
+  HomeTeleportDelay: "&e&o>&6 Aguarde @s segundos..."
+  NenhumaHome: "&4&o>&c Voce ainda nao tem nenhuma home."
+OtherPlayer:
+  NaoTem: "&4&o>&c O jogador @player nao tem uma home chamada @home."
+  NaoPublica: "&4&o>&c A home @home do jogador @player nao e publica."
+  HomeTeleport: "&e&o>&6 Bem vindo a home @home do jogador @player."
+SetHome:
+  Sucesso: "&e&o>&6 Home @home setada com sucesso."
+  Maxhomes: "&4&o>&c Voce atingiu o limite maximo de @limite homes. Adquira VIP e tenha homes ilimitadas"
+CommandLoja:
+  Sucesso: "&e&o>&6 Agora sua home @home e publica e todos poderao acessa-la."
+  JaEsta: "&4&o>&c Sua home @home ja esta atualmente publica."
+CommandRemoveLoja:
+  Sucesso: "&e&o>&6 Agora sua home @home voltou a ser privada."
+  JaEsta: "&4&o>&c Sua home @home ja e privada."
+ListHomes:
+  Prefixo: "&e&o>&6 Suas homes: &r"
+  Separator: "&6,"
+  NormalHomesColor: "&f"
+  PublicHomesColor: "&a"
+  ObsMessage: "&e&o>&6 As homes em &a*VERDE*&6 estao atualmente publicas."

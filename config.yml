@@ -1,0 +1,8 @@
+MySQL:
+  Ativar: false
+  User: 'root'
+  Password: '123'
+  Host: 'localhost'
+  Database: 'pdghhomes'
+Cooldown: 3
+MaxHomes: 10
